@@ -1,0 +1,6 @@
+@article{yu2023physformer++,
+  title={PhysFormer++: Facial Video-Based Physiological Measurement with SlowFast Temporal Difference Transformer},
+  author={Yu, Zitong and Shen, Yuming and Shi, Jingang and Zhao, Hengshuang and Cui, Yawen and Zhang, Jiehua and Torr, Philip and Zhao, Guoying},
+  journal={IJCV},
+  year={2023}
+}

@@ -1,0 +1,6 @@
+@inproceedings{xu2023universal,
+  title={Universal adaptive data augmentation},
+  author={Xu, Xiaogang and Zhao, Hengshuang},
+  booktitle={IJCAI},
+  year={2023}
+}

@@ -1,0 +1,6 @@
+@inproceedings{qi2016augmented,
+  title={Augmented Feedback in Semantic Segmentation under Image Level Supervision},
+  author={Qi, Xiaojuan and Liu, Zhengzhe and Shi, Jianping and Zhao, Hengshuang and Jia, Jiaya},
+  booktitle={ECCV},
+  year={2016}
+}

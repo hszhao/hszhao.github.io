@@ -1,0 +1,6 @@
+@inproceedings{wu2022point,
+  title={Point Transformer V2: Grouped Vector Attention and Partition-based Pooling},
+  author={Wu, Xiaoyang and Lao, Yixing and Jiang, Li and Liu, Xihui and Zhao, Hengshuang},
+  booktitle={NeurIPS},
+  year={2022}
+}

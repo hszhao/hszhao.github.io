@@ -1,0 +1,6 @@
+@inproceedings{wang2021do,
+  title={Do Different Tracking Tasks Require Different Appearance Models?},
+  author={Wang, Zhongdao and Zhao, Hengshuang and Li, Yali and Wang, Shengjin and Torr, Philip and Bertinetto, Luca},
+  booktitle={NeurIPS},
+  year={2021}
+}

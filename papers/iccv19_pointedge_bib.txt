@@ -1,0 +1,6 @@
+@inproceedings{jiang2019hierarchical,
+  title={Hierarchical Point-Edge Interaction Network for Point Cloud Semantic Segmentation},
+  author={Jiang, Li and Zhao, Hengshuang and Liu, Shu and Shen, Xiaoyong and Fu, Chi-Wing and Jia, Jiaya},
+  booktitle={ICCV},
+  year={2019}
+}

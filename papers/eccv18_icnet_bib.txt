@@ -1,0 +1,6 @@
+@inproceedings{zhao2018icnet,
+  title={{ICNet} for Real-Time Semantic Segmentation on High-Resolution Images},
+  author={Zhao, Hengshuang and Qi, Xiaojuan and Shen, Xiaoyong and Shi, Jianping and Jia, Jiaya},
+  booktitle={ECCV},
+  year={2018}
+}

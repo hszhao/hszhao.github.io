@@ -1,0 +1,6 @@
+@inproceedings{yang2023semantics,
+  title={Semantics-Aware Dynamic Localization and Refinement for Referring Image Segmentation},
+  author={Yang, Zhao and Wang, Jiaqi and Tang, Yansong and Chen, Kai and Zhao, Hengshuang and Torr, Philip HS},
+  booktitle={AAAI},
+  year={2023}
+}

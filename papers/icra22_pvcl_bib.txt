@@ -1,0 +1,6 @@
+@inproceedings{liu2022prototype,
+  title={Prototype-Voxel Contrastive Learning for LiDAR Point Cloud Panoptic Segmentation},
+  author={Liu, Minzhe and Zhou, Qiang and Zhao, Hengshuang and Li, Jianing and Du, Yuan and Keutzer, Kurt and Du, Li and Zhang, Shanghang},
+  booktitle={ICRA},
+  year={2022}
+}

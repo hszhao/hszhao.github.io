@@ -1,0 +1,6 @@
+@inproceedings{xiong2019upsnet,
+  title={{UPSNet}: A Unified Panoptic Segmentation Network},
+  author={Xiong, Yuwen and Liao, Renjie and Zhao, Hengshuang and Hu, Rui and Bai, Min and Yumer, Ersin and Urtasun, Raquel},
+  booktitle={CVPR},
+  year={2019}
+}

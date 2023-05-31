@@ -1,0 +1,6 @@
+@inproceedings{hu2021bidirectional,
+  title={Bidirectional Projection Network for Cross Dimension Scene Understanding},
+  author={Hu, Wenbo and Zhao, Hengshuang and Jiang, Li and Jia, Jiaya and Wong, Tien-Tsin},
+  booktitle={CVPR},
+  year={2021}
+}

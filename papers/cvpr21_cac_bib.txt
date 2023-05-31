@@ -1,0 +1,6 @@
+@inproceedings{lai2021semi,
+  title={Semi-supervised Semantic Segmentation with Directional Context-aware Consistency},
+  author={Lai, Xin and Tian, Zhuotao and Jiang, Li and Liu, Shu and Zhao, Hengshuang and Wang, Liwei and Jia, Jiaya},
+  booktitle={CVPR},
+  year={2021}
+}

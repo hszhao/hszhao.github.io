@@ -1,0 +1,6 @@
+@inproceedings{chen2022focalclick,
+  title={FocalClick: Towards Practical Interactive Image Segmentation},
+  author={Chen, Xi and Zhao, Zhiyan and Zhang, Yilei and Duan, Manni and Qi, Donglian and Zhao, Hengshuang},
+  booktitle={CVPR},
+  year={2022}
+}

@@ -1,0 +1,175 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <link href="main.css" rel="stylesheet" media="all">
+    <meta name="description" content="Pyramid Scene Parsing Network" />
+    <meta name="keywords" content="scene parsing, semantic segmentation">
+    <script>
+    function buttonSwitch(id, text) {
+        old_src = document.getElementById(id).src;
+        ind = old_src.lastIndexOf('/');
+        document.getElementById(id).src = old_src.substr(0, ind + 1) + text;
+    }
+    </script>
+    <title>Pyramid Scene Parsing Network</title>
+</head>
+
+<body>
+    <div id="top_arrow" style="position: fixed; bottom: 10px; right: 10px;">
+        <a href="#title">
+<img src="./figures/top_arrow.jpg" style="border: 0pt none ; width: 26px; height: 32px;"/></a>
+    </div>
+    <h2 id="title" class="auto-style1">Pyramid Scene Parsing Network</h2>
+    <p class="auto-style7" align="center">
+        <a href="https://hszhao.github.io" target="_blank">Hengshuang Zhao</a>
+        <sup>1</sup> &nbsp;&nbsp;&nbsp;
+        <a href="http://shijianping.me" target="_blank">Jianping Shi</a>
+        <sup>2</sup> &nbsp;&nbsp;&nbsp;
+        <a href="https://xjqi.github.io">Xiaojuan Qi</a>
+        <sup>1</sup> &nbsp;&nbsp;&nbsp;
+        <a href="http://www.ee.cuhk.edu.hk/~xgwang" target="_blank">Xiaogang Wang</a>
+        <sup>1</sup> &nbsp;&nbsp;&nbsp;
+        <a href="http://www.cse.cuhk.edu.hk/leojia" target="_blank">Jiaya Jia</a>
+        <sup>1</sup> &nbsp;&nbsp;&nbsp;
+    </p>
+    <p class="auto-style7" align="center">
+        <sup>1</sup> The Chinese Univeristy of Hong Kong&nbsp;&nbsp;&nbsp;&nbsp;
+        <sup>2</sup> Sensetime Group Limited
+    </p>
+    <!--<p class="auto-style7"  align="center">&nbsp;&nbsp;&nbsp; </p>-->
+    <p align=left>&nbsp;</p>
+    <p align="center">
+        <table style="width:960px" align="center">
+            <tr>
+                <td><img width=960px alt="" src="figures/pspnet.png"></td>
+            </tr>
+            <tr>
+                <td>
+                    <p class="auto-style5-j">Figure 1. Overview of our proposed PSPNet. Given an input image (a), we first use CNN to get the feature map of the last convolutional layer (b), then a pyramid parsing module is applied to harvest different sub-region representations, followed by upsampling and concatenation layers to form the final feature representation, which carries both local and global context information in (c). Finally, the representation is fed into a convolution layer to get the final per-pixel prediction (d).</p>
+                </td>
+            </tr>
+        </table>
+        <p class="style2"><strong><span class="auto-style6">Abstract</span></strong></p>
+        <p class="auto-style5-j">Scene parsing is challenging for unrestricted open vocabulary and diverse scenes. In this paper, we exploit the capability of global context information by different-region-based context aggregation through our pyramid pooling module together with the proposed pyramid scene parsing network (PSPNet). Our global prior representation is effective to produce good quality results on the scene parsing task, while PSPNet provides a superior framework for pixel-level prediction tasks. The proposed approach achieves state-of-the-art performance on various datasets. It came first in ImageNet 2016 scene parsing challenge, PASCAL VOC 2012 benchmark and Cityscapes benchmark. A single PSPNet yields the new record of mIoU accuracy 85.4% on PASCAL VOC 2012 and accuracy 80.2% on Cityscapes.
+        </p>
+        <p class="auto-style5">&nbsp;</p>
+        <p id="downloads" , class="auto-style4"><strong>Download</strong></p>
+        <table cellSpacing=4 cellPadding=2 border=0 style="width: 90%">
+            <tr COLSPAN="2">
+                <td align="center" valign="center">
+                    <img style="padding:0; clear:both; " src="figures/paper_thumbnail.png" align="middle" alt="Snapshot for paper" class="pdf" width="200" />
+                </td>
+                <td align="left" class="auto-style5">"Pyramid Scene Parsing Network&quot;
+                    <br> Hengshuang Zhao, Jianping Shi, Xiaojuan Qi, Xiaogang Wang, Jiaya Jia.
+                    <br>
+                    <em>IEEE Conference on Computer Vision and Pattern Recognition</em> (<b>CVPR</b>), 2017.</br>
+                    Ranked
+                    <text style="color:red">1st place</text> in <a href="http://image-net.org/challenges/LSVRC/2016/results">ImageNet Scene Parsing Challenge 2016</a>.
+                    <br>
+                    <br>
+                    <img alt="" height="32" src="figures/pdf.png">&nbsp;&nbsp;[<a href="https://arxiv.org/abs/1612.01105">Paper</a>]&nbsp;&nbsp;[<a href="../../papers/cvpr17_pspnet_bib.txt">Bib</a>]
+                    <br>
+                    <br>
+                    <img alt="" height="32" src="figures/github.png">&nbsp;&nbsp;[<a href="https://github.com/hszhao/PSPNet">Caffe</a>][<a href="https://github.com/hszhao/semseg">PyTorch</a>]
+                    <br>
+                    <br>
+                    <!--<img alt="" height="32" src="figures/ppt.gif">&nbsp;&nbsp;[<a href="./papers/pspnet_slides.pdf">Slides</a>]&nbsp;&nbsp;[<a href="./papers/pspnet_poster.pdf">Poster</a>]<br><br>-->
+                    <img alt="" height="32" src="figures/ppt.png">&nbsp;&nbsp;[<a href="http://image-net.org/challenges/talks/2016/SenseCUSceneParsing.pdf">Slides in ILSVRC2016@ECCV2016</a>]
+                    <br>
+                    <br>
+                </td>
+            </tr>
+        </table>
+        <br>
+        <p class="auto-style5">&nbsp;</p>
+        <p id="performance" , class="auto-style4"><strong>Performance</strong></p>
+        <table style="width:960px" align="center">
+            <tr>
+                <td><img width=960px alt="" src="figures/ADE20K.png"></td>
+            </tr>
+            <tr>
+                <td>
+                    <p class="auto-style5">Table 1. Left: PSPNet performance on ADE20K validation set. Number in the brackets refers to the depth of pre-trained ResNet and ‘MS’ denotes multi-scale testing. Right: Results of ImageNet 2016 scene parsing challenge. The best entry of each team is listed. The final score is the mean of Mean IoU and Pixel Acc. Results are evaluated on the testing set.</p>
+                </td>
+            </tr>
+            <tr>
+                <td><img width=960px alt="" src="figures/voc2012.png"></td>
+            </tr>
+            <tr>
+                <td>
+                    <p class="auto-style5-c">Table 2. Per-class results on PASCAL VOC 2012 testing set. Methods pre-trained on MS-COCO are marked with '†'.</p>
+                </td>
+            </tr>
+            <tr>
+                <td><img width=960px alt="" src="figures/cityscapes.png"></td>
+            </tr>
+            <tr>
+                <td>
+                    <p class="auto-style5-c">Table 3. Per-class results on Cityscapes testing set. Methods trained using both fine and coarse set are marked with '‡'.</p>
+                </td>
+            </tr>
+        </table>
+        <p class="auto-style5">&nbsp;</p>
+        <p id="results" , class="auto-style4"><strong>Visualization</strong></p>
+        <table style="width:960px" align="center">
+            <tr>
+                <td><img width=960px alt="" src="figures/ADE20K_visual.png"></td>
+            </tr>
+            <tr>
+                <td>
+                    <p class="auto-style5-c">Figure 2. Visual improvements on ADE20K.</p>
+                </td>
+            </tr>
+            <tr>
+                <td><img width=960px alt="" src="figures/voc2012_visual.png"></td>
+            </tr>
+            <tr>
+                <td>
+                    <p class="auto-style5-c">Figure 3. Visual improvements on PASCAL VOC 2012 data.</p>
+                </td>
+            </tr>
+            <tr>
+                <td><img width=960px alt="" src="figures/cityscapes_visual.png"></td>
+            </tr>
+            <tr>
+                <td>
+                    <p class="auto-style5-c">Figure 4. Examples of PSPNet results on Cityscapes dataset.</p>
+                </td>
+            </tr>
+        </table>
+        <p class="auto-style5">&nbsp;</p>
+        <p id="video" , class="auto-style4"><strong>Video</strong></p>
+        <p class="auto-style5">Demo video processed by PSPNet101 on cityscapes dataset:</p>
+        <!--<iframe width="960" height="540" src="https://www.youtube.com/embed/gdAVqJn_J2M" frameborder="0" allowfullscreen></iframe>-->
+        <iframe width="960" height="540" src="https://www.youtube.com/embed/rB1BmBOkKTw" frameborder="0" allowfullscreen></iframe>
+        <br>
+        <br>
+        <iframe width="960" height="540" src="https://www.youtube.com/embed/HYghTzmbv6Q" frameborder="0" allowfullscreen></iframe>
+        <p class="auto-style5">&nbsp;</p>
+        <p id="reference" , class="auto-style4"><strong>Reference</strong></p>
+        <p id="ref_1" class="auto-style5">
+            [1] F. Yu and V. Koltun. Multi-scale context aggregation by dilated convolutions. In ICLR, 2016.
+            <br> [2] J. Long, E. Shelhamer, and T. Darrell. Fully convolutional networks for semantic segmentation. In CVPR, 2015.
+            <br> [3] V. Badrinarayanan, A. Kendall, and R. Cipolla. Segnet: A deep convolutional encoder-decoder architecture for image segmentation. arXiv:1511.00561, 2015.
+            <br> [4] M. Mostajabi, P. Yadollahpour, and G. Shakhnarovich. Feedforward semantic segmentation with zoom-out features. In CVPR, 2015.
+            <br> [5] L. Chen, G. Papandreou, I. Kokkinos, K. Murphy, and A. L. Yuille. Semantic image segmentation with deep convolutional nets and fully connected crfs. In ICLR, 2015.
+            <br> [6] S. Zheng, S. Jayasumana, B. Romera-Paredes, V. Vineet, Z. Su, D. Du, C. Huang, and P. H. S. Torr. Conditional random fields as recurrent neural networks. In ICCV, 2015.
+            <br> [7] H. Noh, S. Hong, and B. Han. Learning deconvolution network for semantic segmentation. In ICCV, 2015.
+            <br> [8] R. Vemulapalli, O. Tuzel, M.-Y. Liu, and R. Chellappa. Gaussian conditional random field network for semantic segmentation. In CVPR, 2016.
+            <br> [9] Z. Liu, X. Li, P. Luo, C. C. Loy, and X. Tang. Semantic image segmentation via deep parsing network. In ICCV, 2015.
+            <br> [10] G. Lin, C. Shen, I. D. Reid, and A. van den Hengel. Efficient piecewise training of deep structured models for semantic segmentation. In CVPR, 2016.
+            <br> [11] J. Dai, K. He, and J. Sun. Boxsup: Exploiting bounding boxes to supervise convolutional networks for semantic segmentation. In ICCV, 2015.
+            <br> [12] Z. Wu, C. Shen, and A. van den Hengel. Bridging category-level and instance-level semantic image segmentation. arXiv:1605.06885, 2016.
+            <br> [13] G. Ghiasi and C. C. Fowlkes. Laplacian pyramid reconstruction and refinement for semantic segmentation. In ECCV, 2016.
+            <br> [14] L. Chen, G. Papandreou, I. Kokkinos, K. Murphy, and A. L. Yuille. Deeplab: Semantic image segmentation with deep convolutional nets, atrous convolution, and fully connected crfs. arXiv:1606.00915, 2016.
+            <br> [15] I. Kreso, D. Causevic, J. Krapac, and S. Segvic. Convolutional scale invariance for semantic segmentation. In GCPR, 2016.
+            <br>
+        </p>
+        <p class="auto-style1">
+            <font color="#999999">Last update: Apr. 24, 2017</font>
+        </p>
+</body>
+
+</html>

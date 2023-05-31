@@ -1,0 +1,6 @@
+@inproceedings{li2021fully,
+  title={Fully Convolutional Networks for Panoptic Segmentation},
+  author={Li, Yanwei and Zhao, Hengshuang and Qi, Xiaojuan and Wang, Liwei and Li, Zeming and Sun, Jian and Jia, Jiaya},
+  booktitle={CVPR},
+  year={2021}
+}

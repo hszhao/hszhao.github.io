@@ -1,0 +1,6 @@
+@article{sun2022patch,
+  title={Patch-based Separable Transformer for Visual Recognition},
+  author={Sun, Shuyang and Yue, Xiaoyu and Zhao, Hengshuang and Torr, Philip HS and Bai, Song},
+  journal={TPAMI},
+  year={2022}
+}

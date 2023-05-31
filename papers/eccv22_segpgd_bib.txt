@@ -1,0 +1,6 @@
+@inproceedings{gu2022segpgd,
+  title={{SegPGD}: An Effective and Efficient Adversarial Attack for Evaluating and Boosting Segmentation Robustness},
+  author={Gu, Jindong Gu and Zhao, Hengshuang and Tresp, Volker and Torr, Philip},
+  booktitle={ECCV},
+  year={2022}
+}

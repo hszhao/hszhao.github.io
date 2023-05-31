@@ -1,0 +1,6 @@
+@article{tian2020prior,
+  title={Prior Guided Feature Enrichment Network for Few-Shot Segmentation},
+  author={Tian, Zhuotao and Zhao, Hengshuang and Shu, Michelle and Yang, Zhicheng and Li, Ruiyu and Jia, Jiaya},
+  journal={TPAMI},
+  year={2020}
+}

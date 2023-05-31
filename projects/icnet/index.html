@@ -1,0 +1,128 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <link href="main.css" rel="stylesheet" media="all">
+    <meta name="description" content="PSANet: Point-wise Spatial Attention Network for Scene Parsing" />
+    <meta name="keywords" content="PSANet: Point-wise Spatial Attention Network for Scene Parsing">
+    <script>
+    function buttonSwitch(id, text) {
+        old_src = document.getElementById(id).src;
+        ind = old_src.lastIndexOf('/');
+        document.getElementById(id).src = old_src.substr(0, ind + 1) + text;
+    }
+    </script>
+    <title>ICNet for Real-Time Semantic Segmentation on High-Resolution Images</title>
+</head>
+
+<body>
+    <div id="top_arrow" style="position: fixed; bottom: 10px; right: 10px;">
+        <a href="#title">
+<img src="./figures/top_arrow.jpg" style="border: 0pt none ; width: 26px; height: 32px;"/></a>
+    </div>
+    <h2 id="title" class="auto-style1">ICNet for Real-Time Semantic Segmentation on High-Resolution Images</h2>
+    <p class="auto-style7" align="center">
+        <a href="https://hszhao.github.io" target="_blank">Hengshuang Zhao</a><sup>1</sup>&nbsp;&nbsp;&nbsp;
+        <a href="https://xjqi.github.io" target="_blank">Xiaojuan Qi</a><sup>1</sup>&nbsp;&nbsp;&nbsp;
+        <a href="http://xiaoyongshen.me" target="_blank">Xiaoyong Shen</a><sup>2</sup>&nbsp;&nbsp;&nbsp;
+        <a href="http://shijianping.me" target="_blank">Jianping Shi</a><sup>3</sup>&nbsp;&nbsp;&nbsp;
+        <a href="http://www.cse.cuhk.edu.hk/leojia" target="_blank">Jiaya Jia</a><sup>1,2</sup>&nbsp;&nbsp;&nbsp;
+    </p>
+    <p class="auto-style7" align="center">
+        <sup>1</sup> The Chinese Univeristy of Hong Kong&nbsp;&nbsp;&nbsp;&nbsp;
+        <sup>2</sup> Tencent Youtu Lab&nbsp;&nbsp;&nbsp;&nbsp;
+        <sup>3</sup> SenseTime Research&nbsp;&nbsp;&nbsp;&nbsp;
+    </p>
+    <p align="center">
+        <table style="width:960px" align="center">
+            <tr>
+                <td><img width=960px alt="" src="figures/icnet.png"></td>
+            </tr>
+            <tr>
+                <td>
+                    <p class="auto-style5">Network architecture of ICNet. ‘CFF’ stands for cascade feature fusion detailed in Sec. 3.3. Numbers in parentheses are feature map size ratios to the full-resolution input. Operations are highlighted in brackets. The final ×4 upsampling in the bottom branch is only used during testing.</p>
+                </td>
+            </tr>
+        </table>
+        <p class="auto-style4"><strong>Abstract</span></strong></p>
+        <p class="auto-style5">We focus on the challenging task of real-time semantic segmentation in this paper. It finds many practical applications and yet is with fundamental difficulty of reducing a large portion of computation for pixel-wise label inference. We propose an image cascade network (ICNet) that incorporates multi-resolution branches under proper label guidance to address this challenge. We provide in-depth analysis of our framework and introduce the cascade feature fusion unit to quickly achieve high-quality segmentation. Our system yields real-time inference on a single GPU card with decent quality results evaluated on challenging datasets like Cityscapes, CamVid and COCO-Stuff.</p>
+        <p class="auto-style4"><strong>Download</span></strong></p>
+        <table cellSpacing=4 cellPadding=2 border=0 style="width: 90%">
+            <tr COLSPAN="2">
+                <td align="center" valign="center">
+                    <img style="padding:0; clear:both; " src="figures/paper.png" align="middle" alt="Snapshot for paper" class="pdf" width="200" />
+                </td>
+                <td align="left" class="auto-style5">"ICNet for Real-Time Semantic Segmentation on High-Resolution Images&quot;
+                    <br> Hengshuang Zhao, Xiaojuan Qi, Xiaoyong Shen, Jianping Shi, Jiaya Jia.
+                    <br>
+                    <em>European Conference on Computer Vision</em> (<b>ECCV</b>), 2018.</br>
+                    <br>
+                    <img alt="" height="32" src="figures/pdf.png">&nbsp;&nbsp;[<a href="../../papers/eccv18_icnet.pdf">Paper</a>]&nbsp;&nbsp;[<a href="../../papers/eccv18_icnet_supp.pdf">Supp</a>]&nbsp;&nbsp;[<a href="../../papers/eccv18_icnet_bib.txt">Bib</a>]
+                    <br>
+                    <br>
+                    <img alt="" height="32" src="figures/github.png">&nbsp;&nbsp;[<a href="https://github.com/hszhao/ICNet">Code</a>]
+                    <br>
+                    <br>
+                </td>
+            </tr>
+        </table>
+        <p class="auto-style4"><strong>Comparison</span></strong></p>
+        <table style="width:960px" align="center">
+            <tr>
+                <td><img width=960px alt="" src="figures/diffstructure.png"></td>
+            </tr>
+            <tr>
+                <td>
+                    <p class="auto-style5">Comparison of semantic segmentation frameworks. (a) Intermediate skip connection used by FCN [1] and Hypercolumns [21]. (b) Encoder-decoder structure incorporated in SegNet [3], DeconvNet [4], UNet [33], ENet [8], and step-wise reconstruction & refinement from LRR [34] and RefineNet [11]. (c) Multi-scale prediction ensemble adopted by DeepLab-MSC [2] and PSPNet-MSC [5]. (d) Our ICNet architecture.</p>
+                </td>
+            </tr>
+        </table>
+        <p class="auto-style4"><strong>Performance</span></strong></p>
+        <table style="width:960px" align="center">
+            <tr>
+                <td><img width=450px alt="" src="figures/accuracytime.png"></td>
+                <td><img width=450px alt="" src="figures/timeimageresolution.png"></td>
+            </tr>
+            <tr>
+                <td>
+                    <p class="auto-style5">Inference speed and mIoU performance on Cityscapes [7] test set. Methods involved are PSPNet [5], ResNet38 [6], DUC [10], RefineNet [11], FRRN [12], DeepLabv2-CRF[13], Dilation10 [14], DPN [15], FCN-8s [1], DeepLab [2], CRF-RNN [16], SQ [9], ENet [8], SegNet [3], and our ICNet.</p>
+                </td>
+                <td>
+                    <p class="auto-style5">Time spent on PSPNet50 with dilation 8 for two input images. Roughly running time is proportional to the pixel number and kernel number.</p>
+                </td>
+            </tr>
+            <tr>
+                <td><img width=450px alt="" src="figures/result1.png"></td>
+                <td><img width=450px alt="" src="figures/result2.png"></td>
+            </tr>
+        </table>
+        <p class="auto-style4"><strong>Visualization</span></strong></p>
+        <table style="width:960px" align="center">
+            <tr>
+                <td><img width=960px alt="" src="figures/visualization1.png"></td>
+            </tr>
+            <tr>
+                <td>
+                    <p class="auto-style5-c">Visual prediction improvement of ICNet in each branch on Cityscapes dataset.</p>
+                </td>
+            </tr>
+            <tr>
+                <td><img width=960px alt="" src="figures/visualization2.png"></td>
+            </tr>
+            <tr>
+                <td>
+                    <p class="auto-style5">Visual prediction improvement of ICNet. White regions in 'diff1' and 'diff2' denote prediction difference between 'sub24' and 'sub4', and between 'sub124' and 'sub24' respectively.</p>
+                </td>
+            </tr>
+        </table>
+        <p align="center">[<a href="../../papers/eccv18_icnet_supp.pdf">More Visualization</a>]</p>
+        <p id="video" , class="auto-style4"><strong>Video</strong></p>
+        <p class="auto-style5">Demo video processed by ICNet on cityscapes dataset with TitanX Maxwell:</p>
+        <iframe width="960" height="540" src="https://www.youtube.com/embed/qWl9idsCuLQ" frameborder="0" allowfullscreen></iframe>
+        <p class="auto-style1">
+            <font color="#999999">Last update: Aug. 18, 2018</font>
+        </p>
+</body>
+
+</html>

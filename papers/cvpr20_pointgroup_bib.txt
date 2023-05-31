@@ -1,0 +1,6 @@
+@inproceedings{jiang2020pointgroup,
+  title={PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation},
+  author={Jiang, Li and Zhao, Hengshuang and Shi, Shaoshuai and Liu, Shu and Fu, Chi-Wing and Jia, Jiaya},
+  booktitle={CVPR},
+  year={2020}
+}

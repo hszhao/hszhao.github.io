@@ -1,0 +1,6 @@
+@inproceedings{yang2021hierarchical,
+  title={Hierarchical Interaction Network for Video Object Segmentation from Referring Expressions},
+  author={Yang, Zhao and Tang, Yansong and Bertinetto, Luca and Zhao, Hengshuang and Torr, Philip},
+  booktitle={BMVC},
+  year={2021}
+}

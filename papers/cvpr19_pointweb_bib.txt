@@ -1,0 +1,6 @@
+@inproceedings{zhao2019pointweb,
+  title={{PointWeb}: Enhancing Local Neighborhood Features for Point Cloud Processing},
+  author={Zhao, Hengshuang and Jiang, Li and Fu, Chi-Wing and Jia, Jiaya},
+  booktitle={CVPR},
+  year={2019}
+}
