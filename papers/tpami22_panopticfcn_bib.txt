@@ -1,0 +1,6 @@
+@article{li2022fully,
+  title={Fully convolutional networks for panoptic segmentation with point-based supervision},
+  author={Li, Yanwei and Zhao, Hengshuang and Qi, Xiaojuan and Chen, Yukang and Qi, Lu and Wang, Liwei and Li, Zeming and Sun, Jian and Jia, Jiaya},
+  journal={TPAMI},
+  year={2022}
+}
