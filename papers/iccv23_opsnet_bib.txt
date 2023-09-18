@@ -1,0 +1,6 @@
+@inproceedings{chen2023open,
+  title={Open-vocabulary Panoptic Segmentation with Embedding Modulation},
+  author={Chen, Xi and Li, Shuang and Lim, Ser-Nam and Torralba, Antonio and Zhao, Hengshuang},
+  booktitle={ICCV},
+  year={2023}
+}

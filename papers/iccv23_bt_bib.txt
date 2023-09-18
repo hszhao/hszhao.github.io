@@ -1,0 +1,6 @@
+@inproceedings{zhou2023bt,
+  title={$ BT\^{} 2$: Backward-compatible Training with Basis Transformation},
+  author={Zhou, Yifei and Li, Zilu and Shrivastava, Abhinav and Zhao, Hengshuang and Torralba, Antonio and Tian, Taipeng and Lim, Ser-Nam},
+  booktitle={ICCV},
+  year={2023}
+}

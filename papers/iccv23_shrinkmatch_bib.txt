@@ -1,0 +1,6 @@
+@inproceedings{yang2023shrinking,
+  title={Shrinking Class Space for Enhanced Certainty in Semi-Supervised Learning},
+  author={Yang, Lihe and Zhao, Zhen and Qi, Lei and Qiao, Yu and Shi, Yinghuan and Zhao, Hengshuang},
+  booktitle={ICCV},
+  year={2023}
+}
