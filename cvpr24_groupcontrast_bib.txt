@@ -1,6 +1,0 @@
-@inproceedings{wang2024groupcontrast,
-  title={GroupContrast: Semantic-aware Self-supervised Representation Learning for 3D Understanding},
-  author={Wang, Chengyao and Jiang, Li and Wu, Xiaoyang and Tian, Zhuotao and Peng, Bohao and Zhao, Hengshuang and Jia, Jiaya},
-  booktitle={CVPR},
-  year={2024}
-}

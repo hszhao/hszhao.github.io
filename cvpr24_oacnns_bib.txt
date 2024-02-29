@@ -1,6 +1,0 @@
-@inproceedings{peng2024omni,
-  title={Omni-Adaptive Sparse CNNs for 3D Semantic Segmentation},
-  author={Peng, Bohao and Wu, Xiaoyang and Jiang, Li and Chen, Yukang and Zhao, Hengshuang and Tian, Zhuotao and Jia, Jiaya},
-  booktitle={CVPR},
-  year={2024}
-}
