@@ -1,0 +1,6 @@
+@inproceedings{chen2024anydoor,
+  title={Anydoor: Zero-shot Object-level Image Customization},
+  author={Chen, Xi and Huang, Lianghua and Liu, Yu and Shen, Yujun and Zhao, Deli and Zhao, Hengshuang},
+  booktitle={CVPR},
+  year={2024}
+}

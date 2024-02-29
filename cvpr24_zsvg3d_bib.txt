@@ -1,0 +1,6 @@
+@inproceedings{yuan2024visual,
+  title={Visual Programming for Zero-shot Open-Vocabulary 3D Visual Grounding},
+  author={Yuan, Zhihao and Ren, Jinke and Feng, Chun-Mei and Zhao, Hengshuang and Cui, Shuguang and Li, Zhen},
+  booktitle={CVPR},
+  year={2024}
+}

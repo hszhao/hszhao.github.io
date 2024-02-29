@@ -1,0 +1,6 @@
+@inproceedings{wu2024towards,
+  title={Towards Large-scale 3D Representation Learning with Multi-dataset Point Prompt Training},
+  author={Wu, Xiaoyang and Tian, Zhuotao and Wen, Xin and Peng, Bohao and Liu, Xihui and Yu, Kaicheng and Zhao, Hengshuang},
+  booktitle={CVPR},
+  year={2024}
+}

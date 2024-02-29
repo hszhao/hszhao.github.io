@@ -1,0 +1,6 @@
+@inproceedings{clan2024influencer,
+  title={Influencer Backdoor Attack on Semantic Segmentation},
+  author={Lan, Haoheng and Gu, Jindong and Torr, Philip and Zhao, Hengshuang},
+  booktitle={ICLR},
+  year={2024}
+}
