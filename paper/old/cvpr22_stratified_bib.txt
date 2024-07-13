@@ -1,0 +1,6 @@
+@inproceedings{lai2022stratified,
+  title={Stratified Transformer for 3D Point Cloud Segmentation},
+  author={Lai, Xin and Liu, Jianhui and Jiang, Li and Wang, Liwei and Zhao, Hengshuang and Liu, Shu and Qi, Xiaojuan and Jia, Jiaya},
+  booktitle={CVPR},
+  year={2022}
+}

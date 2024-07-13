@@ -1,0 +1,6 @@
+@inproceedings{wang2023detecting,
+  title={Detecting Everything in the Open World: Towards Universal Object Detection},
+  author={Wang, Zhenyu and Li, Yali and Chen, Xi and Lim, Ser-Nam and Torralba, Antonio and Zhao, Hengshuang and Wang, Shengjin},
+  booktitle={CVPR},
+  year={2023}
+}

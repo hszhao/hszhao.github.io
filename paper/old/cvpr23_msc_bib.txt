@@ -1,0 +1,6 @@
+@inproceedings{wu2023masked,
+  title={Masked Scene Contrast: A Scalable Framework for Unsupervised 3D Representation Learning},
+  author={Wu, Xiaoyang and Wen, Xin and Liu, Xihui and Zhao, Hengshuang},
+  booktitle={CVPR},
+  year={2023}
+}

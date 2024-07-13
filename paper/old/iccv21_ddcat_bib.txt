@@ -1,0 +1,6 @@
+@inproceedings{xu2021dynamic,
+  title={Dynamic Divide-and-Conquer Adversarial Training for Robust Semantic Segmentation},
+  author={Xu, Xiaogang and Zhao, Hengshuang and Jia, Jiaya},
+  booktitle={ICCV},
+  year={2021}
+}

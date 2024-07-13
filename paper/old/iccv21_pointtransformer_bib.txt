@@ -1,0 +1,6 @@
+@inproceedings{zhao2021point,
+  title={Point Transformer},
+  author={Zhao, Hengshuang and Jiang, Li and Jia, Jiaya and Torr, Philip and Koltun, Vladlen},
+  booktitle={ICCV},
+  year={2021}
+}

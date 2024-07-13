@@ -1,0 +1,6 @@
+@inproceedings{qi2024ocbev,
+  title={OCBEV: Object-Centric BEV Transformer for Multi-View 3D Object Detection},
+  author={Qi, Zhangyang and Wang, Jiaqi and Wu, Xiaoyang and Zhao, Hengshuang},
+  booktitle={3DV},
+  year={2024}
+}

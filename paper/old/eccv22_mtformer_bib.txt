@@ -1,0 +1,6 @@
+@inproceedings{xu2022mtformer,
+  title={{MTFormer}: Multi-Task Learning via Transformer and Cross-Task Reasoning},
+  author={Xu, Xiaogang and Zhao, Hengshuang and Vineet, Vibhav and Lim, Ser-Nam and Torralba, Antonio},
+  booktitle={ECCV},
+  year={2022}
+}

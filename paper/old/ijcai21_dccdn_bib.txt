@@ -1,0 +1,6 @@
+@inproceedings{yu2021dual,
+  title={Dual-cross central difference network for face anti-spoofing},
+  author={Yu, Zitong and Qin, Yunxiao and Zhao, Hengshuang and Li, Xiaobai and Zhao, Guoying},
+  booktitle={IJCAI},
+  year={2021}
+}

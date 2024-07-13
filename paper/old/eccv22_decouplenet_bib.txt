@@ -1,0 +1,6 @@
+@inproceedings{lai2022decouplenet,
+  title={{DecoupleNet}: Decoupled Network for Domain Adaptive Semantic Segmentation},
+  author={Lai, Xin and Tian, Zhuotao and Xu, Xiaogang and Chen, Yingcong and Liu, Shu and Zhao, Hengshuang and Wang, Liwei and Jia, Jiaya},
+  booktitle={ECCV},
+  year={2022}
+}

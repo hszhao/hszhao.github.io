@@ -1,0 +1,6 @@
+@inproceedings{tian2022gfsseg,
+  title={Generalized Few-shot Semantic Segmentation},
+  author={Tian, Zhuotao and Lai, Xin and Jiang, Li and Shu, Michelle and Zhao, Hengshuang and Jia, Jiaya},
+  booktitle={CVPR},
+  year={2022}
+}

@@ -1,0 +1,6 @@
+@inproceedings{zheng2023tmtvis,
+  title={TMT-VIS: Taxonomy-aware Multi-dataset Joint Training for Video Instance Segmentation},
+  author={Zheng, Rongkun and Qi, Lu and Chen, Xi and Wang, Yi and Wang, Kun and Qiao, Yu and Zhao, Hengshuang},
+  booktitle={NeurIPS},
+  year={2023}
+}

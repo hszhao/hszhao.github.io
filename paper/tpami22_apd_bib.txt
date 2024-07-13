@@ -1,0 +1,6 @@
+@article{tian2022adaptive,
+  title={Adaptive Perspective Distillation for Semantic Segmentation},
+  author={Tian, Zhuotao and Chen, Pengguang and Lai, Xin and Jiang, Li and Liu, Shu and Zhao, Hengshuang and Yu, Bei and Yang, Ming-Chang and Jia, Jiaya},
+  journal={TPAMI},
+  year={2022}
+}

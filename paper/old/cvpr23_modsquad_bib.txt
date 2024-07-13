@@ -1,0 +1,6 @@
+@inproceedings{chen2023mod,
+  title={Mod-Squad: Designing Mixtures of Experts As Modular Multi-Task Learners},
+  author={Chen, Zitian and Shen, Yikang and Ding, Mingyu and Chen, Zhenfang and Zhao, Hengshuang and Learned-Miller, Erik G and Gan, Chuang},
+  booktitle={CVPR},
+  year={2023}
+}

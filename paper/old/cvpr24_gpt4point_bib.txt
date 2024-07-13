@@ -1,0 +1,6 @@
+@inproceedings{qi2024gpt4point,
+  title={GPT4Point: A Unified Framework for Point-Language Understanding and Generation},
+  author={Qi, Zhangyang and Fang, Ye and Sun, Zeyi and Wu, Xiaoyang and Wu, Tong and Wang, Jiaqi and Lin, Dahua and Zhao, Hengshuang},
+  booktitle={CVPR},
+  year={2024}
+}

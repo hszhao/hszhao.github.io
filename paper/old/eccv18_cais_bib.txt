@@ -1,0 +1,6 @@
+@inproceedings{zhao2018compositing,
+  title={Compositing-aware Image Search},
+  author={Zhao, Hengshuang and Shen, Xiaohui and Lin, Zhe and Sunkavalli, Kalyan and Price, Brian and Jia, Jiaya},
+  booktitle={ECCV},
+  year={2018}
+}

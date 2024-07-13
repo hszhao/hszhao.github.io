@@ -1,0 +1,6 @@
+@inproceedings{zhao2020exploring,
+  title={Exploring Self-attention for Image Recognition},
+  author={Zhao, Hengshuang and Jia, Jiaya and Koltun, Vladlen},
+  booktitle={CVPR},
+  year={2020}
+}

@@ -1,0 +1,6 @@
+@inproceedings{yang2022lavt,
+  title={LAVT: Language-Aware Vision Transformer for Referring Image Segmentation},
+  author={Yang, Zhao and Wang, Jiaqi and Tang, Yansong and Chen, Kai and Zhao, Hengshuang and Torr, Philip HS},
+  booktitle={CVPR},
+  year={2022}
+}

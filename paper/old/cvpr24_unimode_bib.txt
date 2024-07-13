@@ -1,0 +1,6 @@
+@inproceedings{li2024unimode,
+  title={UniMODE: Universal Monocular 3D Object Detection},
+  author={Li, Zhuoling and Xu, Xiaogang and Lim, Ser-Nam and Zhao, Hengshuang},
+  booktitle={CVPR},
+  year={2024}
+}

@@ -1,0 +1,6 @@
+@inproceedings{yang2023freemask,
+  title={Freemask: Synthetic images with dense annotations make stronger segmentation models},
+  author={Yang, Lihe and Xu, Xiaogang and Kang, Bingyi and Shi, Yinghuan and Zhao, Hengshuang},
+  booktitle={NeurIPS},
+  year={2023}
+}

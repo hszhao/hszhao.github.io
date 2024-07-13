@@ -1,0 +1,519 @@
+@inproceedings{zhang2024pixel,
+  title={Pixel-GS: Density Control with Pixel-aware Gradient for 3D Gaussian Splatting},
+  author={Zhang, Zheng and Hu, Wenbo and Lao, Yixing and He, Tong and Zhao, Hengshuang},
+  booktitle={ECCV},
+  year={2024}
+}
+
+@inproceedings{chen2024livephoto,
+  title={LivePhoto: Real Image Animation with Text-guided Motion Control},
+  author={Chen, Xi and Liu, Zhiheng and Chen, Mengting and Feng, Yutong and Liu, Yu and Shen, Yujun and Zhao, Hengshuang},
+  booktitle={ECCV},
+  year={2024}
+}
+
+@inproceedings{xu2024insmapper,
+  title={InsMapper: Exploring Inner-instance Information for Vectorized HD Mapping},
+  author={Xu, Zhenhua and Wong, Kwan-Yee K and Zhao, Hengshuang},
+  booktitle={ECCV},
+  year={2024}
+}
+
+@inproceedings{wang2024ov,
+  title={OV-Uni3DETR: Towards Unified Open-Vocabulary 3D Object Detection via Cycle-Modality Propagation},
+  author={Wang, Zhenyu and Li, Yali and Liu, Taichi and Zhao, Hengshuang and Wang, Shengjin},
+  booktitle={ECCV},
+  year={2024}
+}
+
+@inproceedings{zhu2024logosticker,
+  title={LogoSticker: Inserting Logos into Diffusion Models for Customized Generation},
+  author={Zhu, Mingkang and Chen, Xi and Wang, Zhongdao and Zhao, Hengshuang and Jia, Jiaya},
+  booktitle={ECCV},
+  year={2024}
+}
+
+@inproceedings{huang2024openins3d,
+  title={OpenIns3D: Snap and Lookup for 3D Open-vocabulary Instance Segmentation},
+  author={Huang, Zhening and Wu, Xiaoyang and Chen, Xi and Zhao, Hengshuang and Zhu, Lei and Lasenby, Joan},
+  booktitle={ECCV},
+  year={2024}
+}
+
+@inproceedings{tang2024mind,
+  title={Mind the Interference: Retaining Pre-trained Knowledge in Parameter Efficient Continual Learning of Vision-Language Models},
+  author={Tang, Longxiang and Tian, Zhuotao and Li, Kai and He, Chunming and Zhou, Hantao and Zhao, Hengshuang and Li, Xiu and Jia, Jiaya},
+  booktitle={ECCV},
+  year={2024}
+}
+
+@article{wang2024unidetector,
+  title={UniDetector: Towards Universal Object Detection with Heterogeneous Supervision},
+  author={Wang, Zhenyu and Li, Yali and Chen, Xi and Lim, Ser-Nam and Torralba, Antonio and Zhao, Hengshuang and Wang, Shengjin},
+  journal={TPAMI},
+  year={2024}
+}
+
+@article{xu2024drivegpt4,
+  title={{DriveGPT4}: Interpretable End-to-end Autonomous Driving via Large Language Model},
+  author={Xu, Zhenhua and Zhang, Yujia and Xie, Enze and Zhao, Zhen and Guo, Yong and Wong, Kenneth KY and Li, Zhenguo and Zhao, Hengshuang},
+  journal={RA-L},
+  year={2024}
+}
+
+@inproceedings{yang2024depth,
+  title={Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data},
+  author={Yang, Lihe and Kang, Bingyi and Huang, Zilong and Xu, Xiaogang and Feng, Jiashi and Zhao, Hengshuang},
+  booktitle={CVPR},
+  year={2024}
+}
+
+@inproceedings{chen2024anydoor,
+  title={Anydoor: Zero-shot Object-level Image Customization},
+  author={Chen, Xi and Huang, Lianghua and Liu, Yu and Shen, Yujun and Zhao, Deli and Zhao, Hengshuang},
+  booktitle={CVPR},
+  year={2024}
+}
+
+@inproceedings{wu2024point,
+  title={Point Transformer V3: Simpler, Faster, Stronger},
+  author={Wu, Xiaoyang and Jiang, Li and Wang, Peng-Shuai and Liu, Zhijian and Liu, Xihui and Qiao, Yu and Ouyang, Wanli and He, Tong and Zhao, Hengshuang},
+  booktitle={CVPR},
+  year={2024}
+}
+
+@inproceedings{wu2024towards,
+  title={Towards Large-scale 3D Representation Learning with Multi-dataset Point Prompt Training},
+  author={Wu, Xiaoyang and Tian, Zhuotao and Wen, Xin and Peng, Bohao and Liu, Xihui and Yu, Kaicheng and Zhao, Hengshuang},
+  booktitle={CVPR},
+  year={2024}
+}
+
+@inproceedings{qi2024gpt4point,
+  title={GPT4Point: A Unified Framework for Point-Language Understanding and Generation},
+  author={Qi, Zhangyang and Fang, Ye and Sun, Zeyi and Wu, Xiaoyang and Wu, Tong and Wang, Jiaqi and Lin, Dahua and Zhao, Hengshuang},
+  booktitle={CVPR},
+  year={2024}
+}
+
+
+@inproceedings{li2024unimode,
+  title={UniMODE: Universal Monocular 3D Object Detection},
+  author={Li, Zhuoling and Xu, Xiaogang and Lim, Ser-Nam and Zhao, Hengshuang},
+  booktitle={CVPR},
+  year={2024}
+}
+
+@inproceedings{wang2024groupcontrast,
+  title={GroupContrast: Semantic-aware Self-supervised Representation Learning for 3D Understanding},
+  author={Wang, Chengyao and Jiang, Li and Wu, Xiaoyang and Tian, Zhuotao and Peng, Bohao and Zhao, Hengshuang and Jia, Jiaya},
+  booktitle={CVPR},
+  year={2024}
+}
+
+@inproceedings{peng2024omni,
+  title={Omni-Adaptive Sparse CNNs for 3D Semantic Segmentation},
+  author={Peng, Bohao and Wu, Xiaoyang and Jiang, Li and Chen, Yukang and Zhao, Hengshuang and Tian, Zhuotao and Jia, Jiaya},
+  booktitle={CVPR},
+  year={2024}
+}
+
+@inproceedings{yang2023dreamcomposer,
+  title={DreamComposer: Controllable 3D Object Generation via Multi-View Conditions},
+  author={Yang, Yunhan and Huang, Yukun and Wu, Xiaoyang and Guo, Yuan-Chen and Zhang, Song-Hai and Zhao, Hengshuang and He, Tong and Liu, Xihui},
+  booktitle={CVPR},
+  year={2024}
+}
+
+@inproceedings{yuan2024visual,
+  title={Visual Programming for Zero-shot Open-Vocabulary 3D Visual Grounding},
+  author={Yuan, Zhihao and Ren, Jinke and Feng, Chun-Mei and Zhao, Hengshuang and Cui, Shuguang and Li, Zhen},
+  booktitle={CVPR},
+  year={2024}
+}
+
+@inproceedings{yang2024unipad,
+  title={Unipad: A universal pre-training paradigm for autonomous driving},
+  author={Yang, Honghui and Zhang, Sha and Huang, Di and Wu, Xiaoyang and Zhu, Haoyi and He, Tong and Tang, Shixiang and Zhao, Hengshuang and Qiu, Qibo and Lin, Binbin and others},
+  booktitle={CVPR},
+  year={2024}
+}
+
+@inproceedings{clan2024influencer,
+  title={Influencer Backdoor Attack on Semantic Segmentation},
+  author={Lan, Haoheng and Gu, Jindong and Torr, Philip and Zhao, Hengshuang},
+  booktitle={ICLR},
+  year={2024}
+}
+
+@inproceedings{qi2024ocbev,
+  title={OCBEV: Object-Centric BEV Transformer for Multi-View 3D Object Detection},
+  author={Qi, Zhangyang and Wang, Jiaqi and Wu, Xiaoyang and Zhao, Hengshuang},
+  booktitle={3DV},
+  year={2024}
+}
+
+@inproceedings{yang2023freemask,
+  title={Freemask: Synthetic images with dense annotations make stronger segmentation models},
+  author={Yang, Lihe and Xu, Xiaogang and Kang, Bingyi and Shi, Yinghuan and Zhao, Hengshuang},
+  booktitle={NeurIPS},
+  year={2023}
+}
+
+@inproceedings{wang2023uni3detr,
+  title={Uni3DETR: Unified 3D Detection Transformer},
+  author={Wang, Zhenyu and Li, Yali and Chen, Xi and Zhao, Hengshuang and Wang, Shengjin},
+  booktitle={NeurIPS},
+  year={2023}
+}
+
+@inproceedings{zheng2023tmtvis,
+  title={TMT-VIS: Taxonomy-aware Multi-dataset Joint Training for Video Instance Segmentation},
+  author={Zheng, Rongkun and Qi, Lu and Chen, Xi and Wang, Yi and Wang, Kun and Qiao, Yu and Zhao, Hengshuang},
+  booktitle={NeurIPS},
+  year={2023}
+}
+
+@inproceedings{lao2023corresnerf,
+  title={CorresNeRF: Image Correspondence Priors for Neural Radiance Fields},
+  author={Lao, Yixing and Xu, Xiaogang and Cai, Zhipeng and Liu, Xihui and Zhao, Hengshuang},
+  booktitle={NeurIPS},
+  year={2023}
+}
+
+@inproceedings{chen2023open,
+  title={Open-vocabulary Panoptic Segmentation with Embedding Modulation},
+  author={Chen, Xi and Li, Shuang and Lim, Ser-Nam and Torralba, Antonio and Zhao, Hengshuang},
+  booktitle={ICCV},
+  year={2023}
+}
+
+@inproceedings{yang2023shrinking,
+  title={Shrinking Class Space for Enhanced Certainty in Semi-Supervised Learning},
+  author={Yang, Lihe and Zhao, Zhen and Qi, Lei and Qiao, Yu and Shi, Yinghuan and Zhao, Hengshuang},
+  booktitle={ICCV},
+  year={2023}
+}
+
+@inproceedings{zhou2023bt2,
+  title={$ BT\^{} 2$: Backward-compatible Training with Basis Transformation},
+  author={Zhou, Yifei and Li, Zilu and Shrivastava, Abhinav and Zhao, Hengshuang and Torralba, Antonio and Tian, Taipeng and Lim, Ser-Nam},
+  booktitle={ICCV},
+  year={2023}
+}
+
+@inproceedings{yang2023sam3d,
+  title={Sam3d: Segment anything in 3d scenes},
+  author={Yang, Yunhan and Wu, Xiaoyang and He, Tong and Zhao, Hengshuang and Liu, Xihui},
+  booktitle={ICCVW},
+  year={2023}
+}
+
+@inproceedings{wu2023masked,
+  title={Masked Scene Contrast: A Scalable Framework for Unsupervised 3D Representation Learning},
+  author={Wu, Xiaoyang and Wen, Xin and Liu, Xihui and Zhao, Hengshuang},
+  booktitle={CVPR},
+  year={2023}
+}
+
+@inproceedings{wang2023detecting,
+  title={Detecting Everything in the Open World: Towards Universal Object Detection},
+  author={Wang, Zhenyu and Li, Yali and Chen, Xi and Lim, Ser-Nam and Torralba, Antonio and Zhao, Hengshuang and Wang, Shengjin},
+  booktitle={CVPR},
+  year={2023}
+}
+
+@inproceedings{chen2023mod,
+  title={Mod-Squad: Designing Mixtures of Experts As Modular Multi-Task Learners},
+  author={Chen, Zitian and Shen, Yikang and Ding, Mingyu and Chen, Zhenfang and Zhao, Hengshuang and Learned-Miller, Erik G and Gan, Chuang},
+  booktitle={CVPR},
+  year={2023}
+}
+
+@inproceedings{yang2023semantics,
+  title={Semantics-Aware Dynamic Localization and Refinement for Referring Image Segmentation},
+  author={Yang, Zhao and Wang, Jiaqi and Tang, Yansong and Chen, Kai and Zhao, Hengshuang and Torr, Philip HS},
+  booktitle={AAAI},
+  year={2023}
+}
+
+@inproceedings{xu2023universal,
+  title={Universal adaptive data augmentation},
+  author={Xu, Xiaogang and Zhao, Hengshuang},
+  booktitle={IJCAI},
+  year={2023}
+}
+
+@article{yu2023physformer++,
+  title={PhysFormer++: Facial Video-Based Physiological Measurement with SlowFast Temporal Difference Transformer},
+  author={Yu, Zitong and Shen, Yuming and Shi, Jingang and Zhao, Hengshuang and Cui, Yawen and Zhang, Jiehua and Torr, Philip and Zhao, Guoying},
+  journal={IJCV},
+  year={2023}
+}
+
+@inproceedings{wu2022point,
+  title={Point Transformer V2: Grouped Vector Attention and Partition-based Pooling},
+  author={Wu, Xiaoyang and Lao, Yixing and Jiang, Li and Liu, Xihui and Zhao, Hengshuang},
+  booktitle={NeurIPS},
+  year={2022}
+}
+
+@inproceedings{xu2022mtformer,
+  title={{MTFormer}: Multi-Task Learning via Transformer and Cross-Task Reasoning},
+  author={Xu, Xiaogang and Zhao, Hengshuang and Vineet, Vibhav and Lim, Ser-Nam and Torralba, Antonio},
+  booktitle={ECCV},
+  year={2022}
+}
+
+@inproceedings{gu2022segpgd,
+  title={{SegPGD}: An Effective and Efficient Adversarial Attack for Evaluating and Boosting Segmentation Robustness},
+  author={Gu, Jindong Gu and Zhao, Hengshuang and Tresp, Volker and Torr, Philip},
+  booktitle={ECCV},
+  year={2022}
+}
+
+@inproceedings{lai2022decouplenet,
+  title={{DecoupleNet}: Decoupled Network for Domain Adaptive Semantic Segmentation},
+  author={Lai, Xin and Tian, Zhuotao and Xu, Xiaogang and Chen, Yingcong and Liu, Shu and Zhao, Hengshuang and Wang, Liwei and Jia, Jiaya},
+  booktitle={ECCV},
+  year={2022}
+}
+
+@inproceedings{gao2022towards,
+  title={Towards Visual Social Navigation in Photo-realistic Indoor Scenes},
+  author={Gao, Feng and Zhao, Hengshuang and Wang, Yu},
+  booktitle={RSSW},
+  year={2022}
+}
+
+@inproceedings{chen2022focalclick,
+  title={FocalClick: Towards Practical Interactive Image Segmentation},
+  author={Chen, Xi and Zhao, Zhiyan and Zhang, Yilei and Duan, Manni and Qi, Donglian and Zhao, Hengshuang},
+  booktitle={CVPR},
+  year={2022}
+}
+
+@inproceedings{yang2022lavt,
+  title={LAVT: Language-Aware Vision Transformer for Referring Image Segmentation},
+  author={Yang, Zhao and Wang, Jiaqi and Tang, Yansong and Chen, Kai and Zhao, Hengshuang and Torr, Philip HS},
+  booktitle={CVPR},
+  year={2022}
+}
+
+@inproceedings{tian2022gfsseg,
+  title={Generalized Few-shot Semantic Segmentation},
+  author={Tian, Zhuotao and Lai, Xin and Jiang, Li and Shu, Michelle and Zhao, Hengshuang and Jia, Jiaya},
+  booktitle={CVPR},
+  year={2022}
+}
+
+@inproceedings{yu2022physformer,
+  title={PhysFormer: Facial Video-based Physiological Measurement with Temporal Difference Transformer},
+  author={Yu, Zitong and Shen, Yuming and Shi, Jingang and Zhao, Hengshuang and Torr, Philip and Zhao, Guoying},
+  booktitle={CVPR},
+  year={2022}
+}
+
+@inproceedings{lai2022stratified,
+  title={Stratified Transformer for 3D Point Cloud Segmentation},
+  author={Lai, Xin and Liu, Jianhui and Jiang, Li and Wang, Liwei and Zhao, Hengshuang and Liu, Shu and Qi, Xiaojuan and Jia, Jiaya},
+  booktitle={CVPR},
+  year={2022}
+}
+
+@inproceedings{liu2022prototype,
+  title={Prototype-Voxel Contrastive Learning for LiDAR Point Cloud Panoptic Segmentation},
+  author={Liu, Minzhe and Zhou, Qiang and Zhao, Hengshuang and Li, Jianing and Du, Yuan and Keutzer, Kurt and Du, Li and Zhang, Shanghang},
+  booktitle={ICRA},
+  year={2022}
+}
+
+@article{li2022fully,
+  title={Fully convolutional networks for panoptic segmentation with point-based supervision},
+  author={Li, Yanwei and Zhao, Hengshuang and Qi, Xiaojuan and Chen, Yukang and Qi, Lu and Wang, Liwei and Li, Zeming and Sun, Jian and Jia, Jiaya},
+  journal={TPAMI},
+  year={2022}
+}
+
+@article{qi2022open,
+  title={Open World Entity Segmentation},
+  author={Qi, Lu and Kuen, Jason and Wang, Yi and Gu, Jiuxiang and Zhao, Hengshuang and Torr, Philip and Lin, Zhe and Jia, Jiaya},
+  journal={TPAMI},
+  year={2022}
+}
+
+@article{tian2022adaptive,
+  title={Adaptive Perspective Distillation for Semantic Segmentation},
+  author={Tian, Zhuotao and Chen, Pengguang and Lai, Xin and Jiang, Li and Liu, Shu and Zhao, Hengshuang and Yu, Bei and Yang, Ming-Chang and Jia, Jiaya},
+  journal={TPAMI},
+  year={2022}
+}
+
+@article{sun2022patch,
+  title={Patch-based Separable Transformer for Visual Recognition},
+  author={Sun, Shuyang and Yue, Xiaoyu and Zhao, Hengshuang and Torr, Philip HS and Bai, Song},
+  journal={TPAMI},
+  year={2022}
+}
+
+@inproceedings{wang2021do,
+  title={Do Different Tracking Tasks Require Different Appearance Models?},
+  author={Wang, Zhongdao and Zhao, Hengshuang and Li, Yali and Wang, Shengjin and Torr, Philip and Bertinetto, Luca},
+  booktitle={NeurIPS},
+  year={2021}
+}
+
+@inproceedings{yang2021hierarchical,
+  title={Hierarchical Interaction Network for Video Object Segmentation from Referring Expressions},
+  author={Yang, Zhao and Tang, Yansong and Bertinetto, Luca and Zhao, Hengshuang and Torr, Philip},
+  booktitle={BMVC},
+  year={2021}
+}
+
+@inproceedings{zhao2021point,
+  title={Point Transformer},
+  author={Zhao, Hengshuang and Jiang, Li and Jia, Jiaya and Torr, Philip and Koltun, Vladlen},
+  booktitle={ICCV},
+  year={2021}
+}
+
+@inproceedings{xu2021dynamic,
+  title={Dynamic Divide-and-Conquer Adversarial Training for Robust Semantic Segmentation},
+  author={Xu, Xiaogang and Zhao, Hengshuang and Jia, Jiaya},
+  booktitle={ICCV},
+  year={2021}
+}
+
+@inproceedings{hu2021bidirectional,
+  title={Bidirectional Projection Network for Cross Dimension Scene Understanding},
+  author={Hu, Wenbo and Zhao, Hengshuang and Jiang, Li and Jia, Jiaya and Wong, Tien-Tsin},
+  booktitle={CVPR},
+  year={2021}
+}
+
+@inproceedings{li2021fully,
+  title={Fully Convolutional Networks for Panoptic Segmentation},
+  author={Li, Yanwei and Zhao, Hengshuang and Qi, Xiaojuan and Wang, Liwei and Li, Zeming and Sun, Jian and Jia, Jiaya},
+  booktitle={CVPR},
+  year={2021}
+}
+
+@inproceedings{chen2021distilling,
+  title={Distilling Knowledge via Knowledge Review},
+  author={Chen, Pengguang and Liu, Shu and Zhao, Hengshuang and Jia, Jiaya},
+  booktitle={CVPR},
+  year={2021}
+}
+
+@inproceedings{xu2021paconv,
+  title={PAConv: Position Adaptive Convolution with Dynamic Kernel Assembling on Point Clouds},
+  author={Xu, Mutian and Ding, Runyu and Zhao, Hengshuang and Qi, Xiaojuan},
+  booktitle={CVPR},
+  year={2021}
+}
+
+@inproceedings{zheng2021rethinking,
+  title={Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers},
+  author={Zheng, Sixiao and Lu, Jiachen and Zhao, Hengshuang and Zhu, Xiatian and Luo, Zekun and Wang, Yabiao and Fu, Yanwei and Feng, Jianfeng and Xiang, Tao and Torr, Philip and Zhang, Li},
+  booktitle={CVPR},
+  year={2021}
+}
+
+@inproceedings{lai2021semi,
+  title={Semi-supervised Semantic Segmentation with Directional Context-aware Consistency},
+  author={Lai, Xin and Tian, Zhuotao and Jiang, Li and Liu, Shu and Zhao, Hengshuang and Wang, Liwei and Jia, Jiaya},
+  booktitle={CVPR},
+  year={2021}
+}
+
+@inproceedings{yu2021dual,
+  title={Dual-cross central difference network for face anti-spoofing},
+  author={Yu, Zitong and Qin, Yunxiao and Zhao, Hengshuang and Li, Xiaobai and Zhao, Guoying},
+  booktitle={IJCAI},
+  year={2021}
+}
+
+@inproceedings{zhao2020exploring,
+  title={Exploring Self-attention for Image Recognition},
+  author={Zhao, Hengshuang and Jia, Jiaya and Koltun, Vladlen},
+  booktitle={CVPR},
+  year={2020}
+}
+
+@inproceedings{jiang2020pointgroup,
+  title={PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation},
+  author={Jiang, Li and Zhao, Hengshuang and Shi, Shaoshuai and Liu, Shu and Fu, Chi-Wing and Jia, Jiaya},
+  booktitle={CVPR},
+  year={2020}
+}
+
+@article{tian2020prior,
+  title={Prior Guided Feature Enrichment Network for Few-Shot Segmentation},
+  author={Tian, Zhuotao and Zhao, Hengshuang and Shu, Michelle and Yang, Zhicheng and Li, Ruiyu and Jia, Jiaya},
+  journal={TPAMI},
+  year={2020}
+}
+
+@inproceedings{jiang2019hierarchical,
+  title={Hierarchical Point-Edge Interaction Network for Point Cloud Semantic Segmentation},
+  author={Jiang, Li and Zhao, Hengshuang and Liu, Shu and Shen, Xiaoyong and Fu, Chi-Wing and Jia, Jiaya},
+  booktitle={ICCV},
+  year={2019}
+}
+
+@inproceedings{zhao2019pointweb,
+  title={{PointWeb}: Enhancing Local Neighborhood Features for Point Cloud Processing},
+  author={Zhao, Hengshuang and Jiang, Li and Fu, Chi-Wing and Jia, Jiaya},
+  booktitle={CVPR},
+  year={2019}
+}
+
+@inproceedings{xiong2019upsnet,
+  title={{UPSNet}: A Unified Panoptic Segmentation Network},
+  author={Xiong, Yuwen and Liao, Renjie and Zhao, Hengshuang and Hu, Rui and Bai, Min and Yumer, Ersin and Urtasun, Raquel},
+  booktitle={CVPR},
+  year={2019}
+}
+
+@inproceedings{zhao2018psanet,
+  title={{PSANet}: Point-wise Spatial Attention Network for Scene Parsing},
+  author={Zhao, Hengshuang and Zhang, Yi and Liu, Shu and Shi, Jianping and Loy, Chen Change and Lin, Dahua and Jia, Jiaya},
+  booktitle={ECCV},
+  year={2018}
+}
+
+@inproceedings{zhao2018compositing,
+  title={Compositing-aware Image Search},
+  author={Zhao, Hengshuang and Shen, Xiaohui and Lin, Zhe and Sunkavalli, Kalyan and Price, Brian and Jia, Jiaya},
+  booktitle={ECCV},
+  year={2018}
+}
+
+@inproceedings{yang2018segstereo,
+  title={{SegStereo}: Exploiting Semantic Information for Disparity Estimation},
+  author={Yang, Guorun and Zhao, Hengshuang and Shi, Jianping and Deng, Zhidong and Jia, Jiaya},
+  booktitle={ECCV},
+  year={2018}
+}
+
+@inproceedings{zhao2018icnet,
+  title={{ICNet} for Real-Time Semantic Segmentation on High-Resolution Images},
+  author={Zhao, Hengshuang and Qi, Xiaojuan and Shen, Xiaoyong and Shi, Jianping and Jia, Jiaya},
+  booktitle={ECCV},
+  year={2018}
+}
+
+@inproceedings{zhao2017pyramid,
+  title={Pyramid Scene Parsing Network},
+  author={Zhao, Hengshuang and Shi, Jianping and Qi, Xiaojuan and Wang, Xiaogang and Jia, Jiaya},
+  booktitle={CVPR},
+  year={2017}
+}
+
+@inproceedings{qi2016augmented,
+  title={Augmented Feedback in Semantic Segmentation under Image Level Supervision},
+  author={Qi, Xiaojuan and Liu, Zhengzhe and Shi, Jianping and Zhao, Hengshuang and Jia, Jiaya},
+  booktitle={ECCV},
+  year={2016}
+}
+
