@@ -1,13 +1,55 @@
-@inproceedings{zhang2024pixel,
-  title={Pixel-GS: Density Control with Pixel-aware Gradient for 3D Gaussian Splatting},
-  author={Zhang, Zheng and Hu, Wenbo and Lao, Yixing and He, Tong and Zhao, Hengshuang},
-  booktitle={ECCV},
+@inproceedings{yang2024depthv2,
+  title={Depth Anything V2},
+  author={Yang, Lihe and Kang, Bingyi and Huang, Zilong and Zhao, Zhen and Xu, Xiaogang and Feng, Jiashi and Zhao, Hengshuang},
+  booktitle={NeurIPS},
+  year={2024}
+}
+
+@inproceedings{chen2024zero,
+  title={Zero-shot Image Editing with Reference Imitation},
+  author={Chen, Xi and Feng, Yutong and Chen, Mengting and Wang, Yiyang and Zhang, Shilong and Liu, Yu and Shen, Yujun and Zhao, Hengshuang},
+  booktitle={NeurIPS},
+  year={2024}
+}
+
+@inproceedings{lao2024lit,
+  title={LiT: Unifying LiDAR "Languages" with LiDAR Translator},
+  author={Lao, Yixing and Tang, Tao and Wu, Xiaoyang and Chen, Peng and Yu, Kaicheng and Zhao, Hengshuang},
+  booktitle={NeurIPS},
+  year={2024}
+}
+
+@inproceedings{zheng2024syncvis,
+  title={SyncVIS: Synchronized Video Instance Segmentation},
+  author={Zheng, Rongkun and Qi, Lu and Chen, Xi and Wang, Yi and Wang, Kun and Qiao, Yu and Zhao, Hengshuang},
+  booktitle={NeurIPS},
+  year={2024}
+}
+
+@inproceedings{wang2024one,
+  title={One for All: Multi-Domain Joint Training for Point Cloud Based 3D Object Detection},
+  author={Wang, Zhenyu and Li, Yali and Zhao, Hengshuang and Wang, Shengjin},
+  booktitle={NeurIPS},
+  year={2024}
+}
+
+@inproceedings{liu2024lion,
+  title={LION: Linear Group RNN for 3D Object Detection in Point Clouds},
+  author={Liu, Zhe and Hou, Jinghua and Wang, Xinyu and Ye, Xiaoqing and Wang, Jingdong and Zhao, Hengshuang and Bai, Xiang},
+  booktitle={NeurIPS},
   year={2024}
 }
 
 @inproceedings{chen2024livephoto,
   title={LivePhoto: Real Image Animation with Text-guided Motion Control},
   author={Chen, Xi and Liu, Zhiheng and Chen, Mengting and Feng, Yutong and Liu, Yu and Shen, Yujun and Zhao, Hengshuang},
+  booktitle={ECCV},
+  year={2024}
+}
+
+@inproceedings{zhang2024pixel,
+  title={Pixel-GS: Density Control with Pixel-aware Gradient for 3D Gaussian Splatting},
+  author={Zhang, Zheng and Hu, Wenbo and Lao, Yixing and He, Tong and Zhao, Hengshuang},
   booktitle={ECCV},
   year={2024}
 }
