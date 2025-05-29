@@ -1,3 +1,171 @@
+@inproceedings{tu2025videoanydoor,
+  title={VideoAnydoor: High-fidelity Video Object Insertion with Precise Motion Control},
+  author={Tu, Yuanpeng and Luo, Hao and Chen, Xi and Ji, Sihui and Bai, Xiang and Zhao, Hengshuang},
+  booktitle={SIGGRAPH},
+  year={2025}
+}
+
+@inproceedings{ji2025layerflow,
+  title={LayerFlow: A Unified Model for Layer-aware Video Generation},
+  author={Ji, Sihui and Luo, Hao and Chen, Xi and Tu, Yuanpeng and Wang, Yiyang and Zhao, Hengshuang},
+  booktitle={SIGGRAPH},
+  year={2025}
+}
+
+@inproceedings{ji2024fashioncomposer,
+  title={FashionComposer: Compositional Fashion Image Generation},
+  author={Ji, Sihui and Wang, Yiyang and Chen, Xi and Xu, Xiaogang and Luo, Hao and Zhao, Hengshuang},
+  booktitle={SIGGRAPH},
+  year={2025}
+}
+
+@inproceedings{tu2025dreammask,
+  title={DreamMask: Boosting Open-vocabulary Panoptic Segmentation with Synthetic Data},
+  author={Tu, Yuanpeng and Chen, Xi and Lim, Ser-Nam and Zhao, Hengshuang},
+  booktitle={SIGGRAPH},
+  year={2025}
+}
+
+@inproceedings{li2025vip,
+  title={VIP: Vision Instructed Pre-training for Robotic Manipulation},
+  author={Li, Zhuoling and Ren, Liangliang and Yang, Jinrong and Zhao, Yong and Wu, Xiaoyang and Xu, Zhenhua and Bai, Xiang and Zhao, Hengshuang},
+  booktitle={ICML},
+  year={2025}
+}
+
+@inproceedings{li2025larm,
+  title={LARM: Large Auto-Regressive Model for Long-Horizon Embodied Intelligence},
+  author={Li, Zhuoling and Xu, Xiaogang and Xu, Zhenhua and Lim, SerNam and Zhao, Hengshuang},
+  booktitle={ICML},
+  year={2025}
+}
+
+@inproceedings{yang2025haplovl,
+  title={HaploVL: A Single-Transformer Baseline for Multi-Modal Understanding},
+  author={Yang, Rui and Song, Lin and Xiao, Yicheng and Huang, Runhui and Ge, Yixiao and Shan, Ying and Zhao, Hengshuang},
+  booktitle={ICML},
+  year={2025}
+}
+
+@inproceedings{liao2025bood,
+  title={BOOD: Boundary-based Out-Of-Distribution Data Generation},
+  author={Liao, Qilin and Yang, Shuo and Zhao, Bo and Luo, Ping and Zhao, Hengshuang},
+  booktitle={ICML},
+  year={2025}
+}
+
+@inproceedings{wang2025orient,
+  title={Orient Anything: Learning Robust Object Orientation Estimation from Rendering 3D Models},
+  author={Wang, Zehan and Zhang, Ziang and Pang, Tianyu and Du, Chao and Zhao, Hengshuang and Zhao, Zhou},
+  booktitle={ICML},
+  year={2025}
+}
+
+@inproceedings{zhu2025tgdpo,
+  title={TGDPO: Harnessing Token-Level Reward Guidance for Enhancing Direct Preference Optimization},
+  author={Zhu, Mingkang and Chen, Xi and Wang, Zhongdao and Yu, Bei and Zhao, Hengshuang and Jia, Jiaya},
+  booktitle={ICML},
+  year={2025}
+}
+
+@inproceedings{chen2025unireal,
+  title={UniReal: Universal Image Generation and Editing via Learning Real-world Dynamics},
+  author={Chen, Xi and Zhang, Zhifei and Zhang, He and Zhou, Yuqian and Kim, Soo Ye and Liu, Qing and Li, Yijun and Zhang, Jianming and Zhao, Nanxuan and Wang, Yilin and others},
+  booktitle={CVPR},
+  year={2025}
+}
+
+@inproceedings{xu2025drivegpt4v2,
+  title={DriveGPT4-V2: Harnessing Large Language Model Capabilities for Enhanced Closed-Loop Autonomous Driving},
+  author={Xu, Zhenhua and Bai, Yan and Zhang, Yujia and Li, Zhuoling and Xia, Fei and and Wong, Kenneth KY and Wang, Jianqiang and Zhao, Hengshuang},
+  booktitle={CVPR},
+  year={2025}
+}
+
+@inproceedings{wu2025sonata,
+  title={Sonata: Self-Supervised Learning of Reliable Point Representations},
+  author={Wu, Xiaoyang and DeTone, Daniel and Frost, Duncan and Shen, Tianwei and Xie, Chris and Yang, Nan and Engel, Jakob and Newcombe, Richard and Zhao, Hengshuang and Straub, Julian},
+  booktitle={CVPR},
+  year={2025}
+}
+
+@inproceedings{wang2025spatialclip,
+  title={SpatialCLIP: Learning 3D-aware Image Representations from Spatially Discriminative Language},
+  author={Wang, Zehan and zhou, Sashuai and He, Shaoxuan and Huang, Haifeng and Yang, Lihe and Zhang, Ziang and Cheng, Xize and Ji, Shengpeng and Jin, Tao and Zhao, Hengshuang and Zhao, Zhou},
+  booktitle={CVPR},
+  year={2025}
+}
+
+@inproceedings{cao2025panda,
+  title={PanDA: Towards Panoramic Depth Anything with Unlabeled Panoramas and Mobius Spatial Augmentation},
+  author={Cao, Zidong and Zhu, Jinjing and Zhang, Weiming and Ai, Hao and Bai, Haotian and Zhao, Hengshuang and Wang, Lin},
+  booktitle={CVPR},
+  year={2025}
+}
+
+@inproceedings{yuan2025empowering,
+  title={Empowering Large Language Models with 3D Situation Awareness},
+  author={Yuan, Zhihao and Peng, Yibo and Ren, Jinke and Liao, Yinghong and Han, Yatong and Feng, Chun-Mei and Zhao, Hengshuang and Li, Guanbin and Cui, Shuguang and Li, Zhen},
+  booktitle={CVPR},
+  year={2025}
+}
+
+@inproceedings{huang2025hires,
+  title={Hires-llava: Restoring fragmentation input in high-resolution large vision-language models},
+  author={Huang, Runhui and Ding, Xinpeng and Wang, Chunwei and Han, Jianhua and Liu, Yulong and Zhao, Hengshuang and Xu, Hang and Hou, Lu and Zhang, Wei and Liang, Xiaodan},
+  booktitle={CVPR},
+  year={2025}
+}
+
+@inproceedings{chen2025emova,
+  title={Emova: Empowering language models to see, hear and speak with vivid emotions},
+  author={Chen, Kai and Gou, Yunhao and Huang, Runhui and Liu, Zhili and Tan, Daxin and Xu, Jing and Wang, Chunwei and Zhu, Yi and Zeng, Yihan and Yang, Kuo and others},
+  booktitle={CVPR},
+  year={2025}
+}
+
+@@inproceedings{wang2025omnibind,
+  title={Omnibind: Large-scale omni multimodal representation via binding spaces},
+  author={Wang, Zehan and Zhang, Ziang and Zhang, Hang and Liu, Luping and Huang, Rongjie and Cheng, Xize and Zhao, Hengshuang and Zhao, Zhou},
+  booktitle={ICLR},
+  year={2025}
+}
+
+@article{chen2025anydoor,
+  title={AnyDoor: Zero-shot Image Customization with Region-to-region Reference},
+  author={Chen, Xi and Huang, Lianghua and Liu, Yu and Shen, Yujun and Zhao, Deli and Zhao, Hengshuang},
+  journal={TPAMI},
+  year={2025}
+}
+
+@article{li2025towards,
+  title={Towards Unified 3D Object Detection via Algorithm and Data Unification},
+  author={Li, Zhuoling and Xu, Xiaogang and Lim, SerNam and Zhao, Hengshuang},
+  journal={TPAMI},
+  year={2025}
+}
+
+@article{yang2025unimatch,
+  title={Unimatch v2: Pushing the limit of semi-supervised semantic segmentation},
+  author={Yang, Lihe and Zhao, Zhen and Zhao, Hengshuang},
+  journal={TPAMI},
+  year={2025}
+}
+
+@article{yang2025dreamcomposer++,
+  title={DreamComposer++: Empowering Diffusion Models with Multi-View Conditions for 3D Content Generation},
+  author={Yang, Yunhan and Chen, Shuo and Huang, Yukun and Wu, Xiaoyang and Guo, Yuan-Chen and Lam, Edmund Y and Zhao, Hengshuang and He, Tong and Liu, Xihui},
+  journal={TPAMI},
+  year={2025}
+}
+
+@article{zhu2025ponderv2,
+  title={PonderV2: Improved 3D Representation with A Universal Pre-training Paradigm},
+  author={Zhu, Haoyi and Yang, Honghui and Wu, Xiaoyang and Huang, Di and Zhang, Sha and He, Xianglong and Zhao, Hengshuang and Shen, Chunhua and Qiao, Yu and He, Tong and others},
+  journal={TPAMI},
+  year={2025}
+}
+
 @inproceedings{yang2024depthv2,
   title={Depth Anything V2},
   author={Yang, Lihe and Kang, Bingyi and Huang, Zilong and Zhao, Zhen and Xu, Xiaogang and Feng, Jiashi and Zhao, Hengshuang},
@@ -86,6 +254,13 @@
   title={Mind the Interference: Retaining Pre-trained Knowledge in Parameter Efficient Continual Learning of Vision-Language Models},
   author={Tang, Longxiang and Tian, Zhuotao and Li, Kai and He, Chunming and Zhou, Hantao and Zhao, Hengshuang and Li, Xiu and Jia, Jiaya},
   booktitle={ECCV},
+  year={2024}
+}
+
+@article{yang2024language,
+  title={Language-aware vision transformer for referring segmentation},
+  author={Yang, Zhao and Wang, Jiaqi and Ye, Xubing and Tang, Yansong and Chen, Kai and Zhao, Hengshuang and Torr, Philip HS},
+  journal={TPAMI},
   year={2024}
 }
 
