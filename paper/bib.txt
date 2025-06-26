@@ -1,3 +1,38 @@
+@inproceedings{zhang2025stabledepth,
+  title={StableDepth: Scene-Consistent and Scale-Invariant Monocular Depth},
+  author={Zhang, Zheng and Yang, Lihe and Yang, Tianyu and Yu, Chaohui and Guo, Xiaoyang and Lao, Yixing and Zhao, Hengshuang},
+  booktitle={ICCV},
+  year={2025}
+}
+
+@inproceedings{wang2025diffdoctor,
+  title={DiffDoctor: Diagnosing Image Diffusion Models Before Treating},
+  author={Wang, Yiyang and Chen, Xi and Xu, Xiaogang and Ji, Sihui and Liu, Yu and Shen, Yujun and Zhao, Hengshuang},
+  booktitle={ICCV},
+  year={2025}
+}
+
+@inproceedings{zheng2025villa,
+  title={ViLLa: Video Reasoning Segmentation with Large Language Model},
+  author={Zheng, Rongkun and Qi, Lu and Chen, Xi and Wang, Yi and Wang, Kun and Qiao, Yu and Zhao, Hengshuang},
+  booktitle={ICCV},
+  year={2025}
+}
+
+@inproceedings{zhao2025disco,
+  title={DisCo: Towards Distinct and Coherent Visual Encapsulation in Video MLLMs},
+  author={Zhao, Jiahe and Zheng, Rongkun and Wang, Yi and Wang, Helin and Zhao, Hengshuang},
+  booktitle={ICCV},
+  year={2025}
+}
+
+@inproceedings{zhou2025hermes,
+  title={HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation},
+  author={Zhou, Xin and Liang, Dingkang and Tu, Sifan and Chen, Xiwu and Ding, Yikang and Zhang, Dingyuan and Tan, Feiyang and Zhao, Hengshuang and Bai, Xiang},
+  booktitle={ICCV},
+  year={2025}
+}
+
 @inproceedings{tu2025videoanydoor,
   title={VideoAnydoor: High-fidelity Video Object Insertion with Precise Motion Control},
   author={Tu, Yuanpeng and Luo, Hao and Chen, Xi and Ji, Sihui and Bai, Xiang and Zhao, Hengshuang},
