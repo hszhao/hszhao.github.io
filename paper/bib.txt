@@ -1,3 +1,94 @@
+@inproceedings{tu2025playerone,
+  title={PlayerOne: Egocentric World Simulator},
+  author={Tu, Yuanpeng and Luo, Hao and Chen, Xi and Bai, Xiang and Wang, Fan and Zhao, Hengshuang},
+  booktitle={NeurIPS},
+  year={2025}
+}
+
+@inproceedings{zhang2025concerto,
+  title={Concerto: Joint 2D-3D Self-Supervised Learning Emerges Spatial Representations},
+  author={Zhang, Yujia and Wu, Xiaoyang and Lao, Yixing and Wang, Chengyao and Tian, Zhuotao and Wang, Naiyan and Zhao, Hengshuang},
+  booktitle={NeurIPS},
+  year={2025}
+}
+
+@inproceedings{chen2025mico,
+  title={MiCo: Multi-image Contrast for Reinforcement Visual Reasoning},
+  author={Chen, Xi and Zhu, Mingkang and Liu, Shaoteng and Wu, Xiaoyang and Xu, Xiaogang and Liu, Yu and Bai, Xiang and Zhao, Hengshuang},
+  booktitle={NeurIPS},
+  year={2025}
+}
+
+@inproceedings{zheng2025starr1,
+  title={STAR-R1: Improving Video Perception via Spatio-Temporal Aggregated Reinforcement},
+  author={Zheng, Rongkun and Qi, Lu and Chen, Xi and Wang, Yi and Wang, Kun and Qiao, Yu and Zhao, Hengshuang},
+  booktitle={NeurIPS},
+  year={2025}
+}
+
+@inproceedings{zheng2025segvar,
+  title={Seg-VAR:Image Segmentation with Visual Autoregressive Modeling},
+  author={Zheng, Rongkun and Qi, Lu and Chen, Xi and Wang, Yi and Wang, Kun and Qiao, Yu and Zhao, Hengshuang},
+  booktitle={NeurIPS},
+  year={2025}
+}
+
+@inproceedings{miao2025rose,
+  title={ROSE: Remove Objects with Side Effects in Videos},
+  author={Miao, Chenxuan and Feng, Yutong and Zeng, Jianshu and Gao, Zixiang and Liu, Hantang and Yan, Yunfeng and Qi, Donglian and Chen, Xi and Wang, Bin and Zhao, Hengshuang},
+  booktitle={NeurIPS},
+  year={2025}
+}
+
+@inproceedings{yang2025visionthink,
+  title={VisionThink: Smart and Efficient Vision Language Model via Reinforcement Learning},
+  author={Yang, Senqiao and Li, Junyi and Lai, Xin and Yu, Bei and Zhao, Hengshuang and Jia, Jiaya},
+  booktitle={NeurIPS},
+  year={2025}
+}
+
+@inproceedings{wang2025orientv2,
+  title={Orient Anything V2: Unifying Orientation and Rotation Understanding},
+  author={Wang, Zehan and Zhang, Ziang and Xu, Jiayang and Wang, Jialei and Pang, Tianyu and Du, Chao and Zhao, Hengshuang and Zhao, Zhou},
+  booktitle={NeurIPS},
+  year={2025}
+}
+
+@inproceedings{huang2025litereality,
+  title={LiteReality: Graphics-Ready 3D Scene Reconstruction from RGB-D Scans},
+  author={Huang, Zhening and Wu, Xiaoyang and Zhong, Fangcheng and Zhao, Hengshuang and Nie{\ss}ner, Matthias and Lasenby, Joan},
+  booktitle={NeurIPS},
+  year={2025}
+}
+
+@inproceedings{chu2025mover,
+  title={Mover: Motion-controllable Video Generation via Latent Trajectory Guidance},
+  author={Chu, Ruihang and He, Yefei and Chen, Zhekai and Zhang, Shiwei and Xu, Xiaogang and Xia, Bin and Wang, Dingdong and Yi, Hongwei and Liu, Xihui and Zhao, Hengshuang and Liu, Yu and Zhang, Yingya and Yang, Yujiu},
+  booktitle={NeurIPS},
+  year={2025}
+}
+
+@inproceedings{wang2025genspace,
+  title={GenSpace: Benchmarking Spatially-Aware Image Generation},
+  author={Wang, Zehan and Xu, Jiayang and Zhang, Ziang and Pang, Tianyu and Du, Chao and Zhao, Hengshuang and Zhao, Zhou},
+  booktitle={NeurIPSDB},
+  year={2025}
+}
+
+@inproceedings{wang2025diffcamera,
+  title={DiffCamera: Arbitrary Refocusing on Images},
+  author={Wang, Yiyang and Chen, Xi and Xu, Xiaogang and Liu, Yu and Zhao, Hengshuang},
+  booktitle={SIGGRAPHAsia},
+  year={2025}
+}
+
+@inproceedings{zhu2025enhancing,
+  title={Effective LLM Knowledge Learning via Model Generalization},
+  author={Zhu, Mingkang and Chen, Xi and Wang, Zhongdao and Yu, Bei and Zhao, Hengshuang and Jia, Jiaya},
+  booktitle={EMNLP},
+  year={2025}
+}
+
 @inproceedings{zhang2025stabledepth,
   title={StableDepth: Scene-Consistent and Scale-Invariant Monocular Depth},
   author={Zhang, Zheng and Yang, Lihe and Yang, Tianyu and Yu, Chaohui and Guo, Xiaoyang and Lao, Yixing and Zhao, Hengshuang},
@@ -775,4 +866,3 @@
   booktitle={ECCV},
   year={2016}
 }
-
